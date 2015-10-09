@@ -68,4 +68,13 @@ h1 {
   width: 35%;
   font-size: 1em;
   padding: 1em;
+  position: absolute;
+  bottom: 0px;
+  right: 100px;
+}
+
+#list1 {
+  list-style: none;
+  border: 2px;
+  padding: 0px;
 }

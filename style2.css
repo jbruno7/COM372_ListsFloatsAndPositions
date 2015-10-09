@@ -1,13 +1,47 @@
 #testDiv1 {
-  width: 35%;
+  width: 25%;
   font-size: 1em;
   padding: 1em;
   margin: 2em;
+  float: left;
+  list-style: none;
 }
 
 #testDiv2 {
-  width: 35%;
+  width: 15%;
   font-size: 1em;
   padding: 1em;
   margin: 2em;
+  float: left;
+  list-style: square;
+}
+#testDiv3 {
+width: 25%;
+font-size: 1em;
+padding: 1em;
+margin: 2em;
+float: right;
+list-style: square;
+}
+
+#list1 {
+  width: 25%;
+  font-size: 1em;
+  padding: 1em;
+  margin: 2em;
+  list-style: none;
+  border: 2px;
+  border color: red
+  padding: 10px;
+}
+
+
+
+
+
+
+
+
+
+
 }

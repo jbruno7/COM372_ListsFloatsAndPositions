@@ -1,0 +1,10 @@
+In the floats html, i found that moving the divs around caused them to move below eachother or down another line. I was able to set the percentages
+to 40 and 40 on the first 2 divs and have them both fit across one line. Then when I created the 3rd div they really were not fitting on one line so
+I had to set the two side ones to 35 and the middle to 15 which made them into thinner colums that were able to fit on one line.
+
+When working with the lists html, I was able to see how changing the list style reformatted the text box. Then adding in the red border
+helped me see the actual size better since it was shaded. The padding then gave more space around the box which looks better.
+
+When working with the positions html, it was really interesting to see how much the box would move around when I changed it to either left
+or right and then moved more based on the pixels I added. Selecting the top instead aligned the box right up against the top of the other
+section because it was set at 0px.
